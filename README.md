@@ -20,7 +20,6 @@ Cross-platform support: Play anywhere, whether it’s Mac or Windows!<br></p>
 </table> 
 <br>
 
-
 ## How to run the TicTacToe Game Script 🚀
 
 <h3>On Windows 🖥️</h3>
@@ -59,7 +58,7 @@ Clone the repository or download the ZIP file from the GitHub page and extract i
 
 <p><b>3. Run the Game<br>
 Open the Terminal, navigate to the directory containing the game files:<br>
-<code>cd path/to/game</code><br>
+<code>cd path/to/game</code></b></p>
   
-Run the game script with:<br>
-<code>python3 core.py</code>
+<p>Run the game script with:<br>
+<code>python3 core.py</code></p>
