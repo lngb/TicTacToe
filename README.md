@@ -67,3 +67,27 @@ Open the Terminal, navigate to the directory containing the game files:<br>
 <p>Run the game script with:<br>
 <code>python3 core.py</code></p>
 </details>
+
+<h2>On Linux 🐧</h2>
+<details>
+<br>
+<p><b>1. Install Python</b><br>
+Most Linux distributions come with Python pre-installed. Check with:<br>
+<code>python3 --version</code><br>
+  
+If not installed, install it using your package manager. <br> 
+For example, on Debian/Ubuntu-based systems:<br>
+<code>sudo apt update</code><br>
+<code>sudo apt install python3</code><br>
+
+<p><b>2. Download the Game</b><br>
+Clone the repository or download the ZIP file from the GitHub page and extract its contents.</p>
+
+<p><b>3. Run the Game</b><br>
+Open the Terminal, navigate to the directory containing the game files:<br>
+<code>cd path/to/game</code><br></p>
+
+<p>Run the game script with:<br>
+<code>python3 core.py</code>
+</details>
+
