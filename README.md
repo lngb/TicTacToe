@@ -13,8 +13,8 @@ Cross-platform support: Play anywhere, whether it’s Mac or Windows!<br></p>
 ### Game Preview:
 <table> 
   <tr> 
-    <td><img src="https://i.ibb.co/6BtrGS9/image1.png" width="480" height="340"></td> 
-    <td><img src="https://i.ibb.co/PmCTys5/image3.png" width="480" height="340"></td> 
+    <td><img src="https://i.ibb.co/6BtrGS9/image1.png" width="480" height="300"></td> 
+    <td><img src="https://i.ibb.co/PmCTys5/image3.png" width="480" height="300"></td> 
   </tr> 
 </table> 
 
