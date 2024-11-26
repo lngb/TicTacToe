@@ -45,4 +45,21 @@ Open a terminal (Command Prompt or PowerShell).<br>
   Run the game script with:<br>
   <code>python core.py</code></p>
 
-## On MacOs
+<h3>On MacOs 🍎</h3>
+
+<p><b>1. Install Python</b><br>
+Open the Terminal and type the following command to check if Python is installed:<br>
+  <code>python3 --version</code><br>
+  
+If not installed, download Python from the official Python website or install it via Homebrew:<br>
+  <code>brew install python</code></p>
+
+<p><b>2. Download the Game</b><br>
+Clone the repository or download the ZIP file from the GitHub page and extract its contents.<br></p>
+
+<p><b>3. Run the Game<br>
+Open the Terminal, navigate to the directory containing the game files:<br>
+<code>cd path/to/game</code><br>
+  
+Run the game script with:<br>
+<code>python3 core.py</code>
