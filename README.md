@@ -1,14 +1,6 @@
 # TicTacToe 🎮
-<p> An easy and portable python multiplatform version of a timeless classic ! <br> Free and open source version of the famous game.<br></p>
-
-<p><b>✨Features:</b></p>
-<p>A minimal design: Because simplicity is beauty.<br>
-Smart CPU: Or at least it tries! 😆<br>
-Cross-platform support: Play anywhere, whether it’s Mac or Windows!<br></p>
-
-<p><b>⚙️ Improvements:</b></p>
-<p>Coming soon: PvP & Online mode, Visual and Audio improvements, CPU difficulty set for a CPU that doesn’t cheat (maybe). <br>
-👾 Have fun, and don’t forget to leave a star ⭐️ if you win at least one game!</p>
+<p> A minimal and portable python multiplatform version of a timeless classic ! Free and open source version of the famous game.<br>
+Enjoy the available source codes, try to customize it and publish a your version starting from this files !</p>
 
 ### Game Preview:
 <table> 
@@ -17,6 +9,23 @@ Cross-platform support: Play anywhere, whether it’s Mac or Windows!<br></p>
     <td><img src="https://i.ibb.co/PmCTys5/image3.png" width="480" height="300"></td> 
   </tr> 
 </table> 
+
+<p><b>✨Features:</b></p>
+<p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
+<b>Cross-Platform:</b> Compatible with Windows, macOS, and Linux.<br>
+<b>User-Friendly Interface:</b> Simple text-based grid with clear instructions.<br>
+<b>Lightweight:</b> Runs directly from a terminal without additional dependencies.<br>
+<b>Customizable Code:</b> Easy to modify and expand for developers.</p>
+
+<p><b>🖥️ System Requirements</b></p>
+<p>Python Version:<br>
+Python 3.6 or higher</p>
+<p>Dependencies:<br>
+None (lightweight, no external libraries required)</p>
+
+<p><b>⚙️ Improvements:</b></p>
+<p>Coming soon: PvP & Online mode, Visual and Audio improvements, CPU difficulty set for a CPU that doesn’t cheat (maybe). <br>
+👾 Have fun, and don’t forget to leave a star ⭐️ if you win at least one game!</p>
 
 <h1>How to run the TicTacToe Game Script 🚀</h1>
 
@@ -91,3 +100,13 @@ Open the Terminal, navigate to the directory containing the game files:<br>
 <code>python3 core.py</code>
 </details>
 
+<h1>Contributing 🤝</h1>
+<p></p>We welcome contributions from the community! If you want to help improve this game, here’s how you can contribute:</p>
+<p>
+1. Fork the repository <br>
+2. Create a new branch <code>(git checkout -b feature-name)</code> <br>
+3. Make your changes <br>
+4. Commit your changes <code>(git commit -m 'Add new feature')</code> <br>
+5. Push to your forked repository <code>(git push origin feature-name)</code> <br>
+6. Create a pull request with a description of the changes <br>
+</p>
