@@ -1,5 +1,5 @@
 # TicTacToe 🎮
-<p> A minimal and portable python multiplatform version of a timeless classic ! Free and open source version of the famous game.<br>
+<p> A minimal and portable python multiplatform version of a timeless classic ! <br> Free and open source version of the famous game.<br>
 Enjoy the available source codes, try to customize it and publish a your version starting from this files !</p>
 
 ### Game Preview:
