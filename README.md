@@ -5,8 +5,8 @@ Enjoy the available source codes, try to customize it and publish a your version
 ### Game Preview:
 <table> 
   <tr> 
-    <td><img src="https://i.ibb.co/6BtrGS9/image1.png" width="480" height="280"></td> 
-    <td><img src="https://i.ibb.co/PmCTys5/image3.png" width="480" height="300"></td> 
+    <td><img src="https://i.ibb.co/6BtrGS9/image1.png" width="460" height="300"></td> 
+    <td><img src="https://i.ibb.co/PmCTys5/image3.png" width="460" height="300"></td> 
   </tr> 
 </table> 
 
