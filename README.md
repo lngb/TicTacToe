@@ -1,8 +1,8 @@
 # TicTacToe - The Game 🎮
 
 ![Python - > v 3.6](https://img.shields.io/badge/Python->_v_3.6-1575bf?logo=python&logoColor=yellow)
-[![Dependencies - None](https://img.shields.io/badge/Dependencies-None-1575bf?logo=python&logoColor=yellow)]
-[![Platform - Win/Mac/Unix](https://img.shields.io/badge/Platform-Win%2FMac%2FUnix-1575bf)]
+![Dependencies - None](https://img.shields.io/badge/Dependencies-None-1575bf?logo=python&logoColor=yellow)
+![Platform - Win/Mac/Unix](https://img.shields.io/badge/Platform-Win%2FMac%2FUnix-1575bf)
 
 <p> A minimal and portable python multiplatform version of a timeless classic ! <br> Free and open source version of the famous game.<br>
 Enjoy the available source codes, try to customize it and publish a your version starting from this files !</p>
