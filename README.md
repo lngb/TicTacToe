@@ -1,6 +1,6 @@
 # TicTacToe - The Game 🎮
 
-[![Python - > v 3.6](https://img.shields.io/badge/Python->_v_3.6-1575bf?logo=python&logoColor=yellow)]
+![Python - > v 3.6](https://img.shields.io/badge/Python->_v_3.6-1575bf?logo=python&logoColor=yellow)
 [![Dependencies - None](https://img.shields.io/badge/Dependencies-None-1575bf?logo=python&logoColor=yellow)]
 [![Platform - Win/Mac/Unix](https://img.shields.io/badge/Platform-Win%2FMac%2FUnix-1575bf)]
 
