@@ -29,6 +29,7 @@ Python Version: Python 3.6 or higher <br>
 Dependencies:None (lightweight, no external libraries required)</p>
 
 ![Improvements](https://img.shields.io/badge/Improvements-1575bf?style=for-the-badge)
+
 <p>Coming soon: PvP & Online mode, Visual and Audio improvements, CPU difficulty set for a CPU that doesn’t cheat (maybe). <br>
 👾 Have fun, and don’t forget to leave a star ⭐️ if you win at least one game!</p>
 
