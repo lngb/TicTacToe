@@ -12,7 +12,8 @@
   <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="460" height="300"/> 
 </p>
 
-<p> A minimal and portable python multiplatform version of a timeless classic ! <br> Free and open source version of the famous game.<br> Enjoy the available source codes, try to customize it and publish a your version starting from this files !</p>
+<p> A minimal, free and and portable python multiplatform version of a timeless classic ! <br> 
+Enjoy the available source codes, customize it and publish your version starting from this files ! </p>
 
 <p><b>✨Features:</b></p>
 <p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
