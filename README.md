@@ -11,6 +11,11 @@
   <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="460" height="300"/> 
 </p>
 
+<p float="left">
+  <img src="https://i.ibb.co/6BtrGS9/image1.png" width="50%" />
+  <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="50%" /> 
+</p>
+
 <p> A minimal, free and and portable python multiplatform version of a timeless classic ! <br> 
 Enjoy the available source codes, customize it and publish your version starting from this files ! </p>
 
