@@ -15,7 +15,7 @@
 <p> A minimal, free and and portable python multiplatform version of a timeless classic ! <br> 
 Enjoy the available source codes, customize it and publish your version starting from this files ! </p>
 
-[![FEATURES](https://img.shields.io/badge/FEATURES-1575bf?style=for-the-badge)](https://)
+![FEATURES](https://img.shields.io/badge/FEATURES-1575bf?style=for-the-badge)
 
 <p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
 <b>Cross-Platform:</b> Compatible with Windows, macOS, and Linux.<br>
@@ -23,13 +23,14 @@ Enjoy the available source codes, customize it and publish your version starting
 <b>Lightweight:</b> Runs directly from a terminal without additional dependencies.<br>
 <b>Customizable Code:</b> Easy to modify and expand for developers.</p>
 
-<p><b>🖥️ System Requirements</b></p>
+![System Requirements](https://img.shields.io/badge/System_Requirements-1575bf?style=for-the-badge)
+
 <p>Python Version:<br>
 Python 3.6 or higher</p>
 <p>Dependencies:<br>
 None (lightweight, no external libraries required)</p>
 
-<p><b>⚙️ Improvements:</b></p>
+![Improvements](https://img.shields.io/badge/Improvements-1575bf?style=for-the-badge)
 <p>Coming soon: PvP & Online mode, Visual and Audio improvements, CPU difficulty set for a CPU that doesn’t cheat (maybe). <br>
 👾 Have fun, and don’t forget to leave a star ⭐️ if you win at least one game!</p>
 
