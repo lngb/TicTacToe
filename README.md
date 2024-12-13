@@ -19,8 +19,6 @@ Enjoy the available source codes, customize it and publish your version starting
 <p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
 <b>Cross-Platform:</b> Compatible with Windows, macOS, and Linux.<br>
 <b>User-Friendly Interface:</b> Simple text-based grid with clear instructions.<br>
-<b>Lightweight:</b> Runs directly from a terminal without additional dependencies.<br>
-<b>Customizable Code:</b> Easy to modify and expand for developers.</p>
 
 ![System Requirements](https://img.shields.io/badge/System_Requirements-1575bf?style=for-the-badge)
 
