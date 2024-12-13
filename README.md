@@ -15,7 +15,7 @@
 <p> A minimal, free and and portable python multiplatform version of a timeless classic ! <br> 
 Enjoy the available source codes, customize it and publish your version starting from this files ! </p>
 
-✨ [![FEATURES](https://img.shields.io/badge/FEATURES-1575bf?style=for-the-badge)](https://)
+[![FEATURES](https://img.shields.io/badge/FEATURES-1575bf?style=for-the-badge)](https://)
 
 <p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
 <b>Cross-Platform:</b> Compatible with Windows, macOS, and Linux.<br>
