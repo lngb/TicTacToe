@@ -24,8 +24,9 @@ Enjoy the available source codes, customize it and publish your version starting
 
 ![System Requirements](https://img.shields.io/badge/System_Requirements-1575bf?style=for-the-badge)
 
-<p>Python Version: Python 3.6 or higher</p>
-<p>Dependencies:None (lightweight, no external libraries required)</p>
+<p>Hardware: Not relevant (also a toaster will run it)
+Python Version: Python 3.6 or higher
+Dependencies:None (lightweight, no external libraries required)</p>
 
 ![Improvements](https://img.shields.io/badge/Improvements-1575bf?style=for-the-badge)
 <p>Coming soon: PvP & Online mode, Visual and Audio improvements, CPU difficulty set for a CPU that doesn’t cheat (maybe). <br>
