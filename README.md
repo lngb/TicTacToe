@@ -6,7 +6,6 @@
 ![Python - > v 3.6](https://img.shields.io/badge/Python->_v_3.6-1575bf?logo=python&logoColor=yellow)
 ![Dependencies - None](https://img.shields.io/badge/Dependencies-None-1575bf?logo=python&logoColor=yellow)
 
-### Game Preview:
 <p float="left">
   <img src="https://i.ibb.co/6BtrGS9/image1.png" width="460" height="300" />
   <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="460" height="300"/> 
