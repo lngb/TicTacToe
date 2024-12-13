@@ -10,6 +10,12 @@ Enjoy the available source codes, try to customize it and publish a your version
   </tr> 
 </table> 
 
+<p float="left">
+  <img src="https://i.ibb.co/6BtrGS9/image1.png" width="460" height="280" />
+  <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 <p><b>✨Features:</b></p>
 <p><b>Classic Gameplay:</b> Experience the timeless fun of Tic-Tac-Toe in a digital format.<br>
 <b>Cross-Platform:</b> Compatible with Windows, macOS, and Linux.<br>
