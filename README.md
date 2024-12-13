@@ -1,10 +1,10 @@
-# TicTacToe - The Game 🎮
-
 [![Version - v 0.1](https://img.shields.io/badge/Version-v_0.1-1575bf)](https://)
 ![Platform - Win/Mac/Unix](https://img.shields.io/badge/Platform-Win%2FMac%2FUnix-1575bf)
 <br>
 ![Python - > v 3.6](https://img.shields.io/badge/Python->_v_3.6-1575bf?logo=python&logoColor=yellow)
 ![Dependencies - None](https://img.shields.io/badge/Dependencies-None-1575bf?logo=python&logoColor=yellow)
+
+# TicTacToe - The Game 🎮
 
 <p float="left">
   <img src="https://i.ibb.co/6BtrGS9/image1.png" width="460" height="300" />
