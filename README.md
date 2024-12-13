@@ -12,7 +12,7 @@ Enjoy the available source codes, try to customize it and publish a your version
 
 <p float="left">
   <img src="https://i.ibb.co/6BtrGS9/image1.png" width="460" height="280" />
-  <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="100" /> 
+  <img <img src="https://i.ibb.co/PmCTys5/image3.png" width="460" height="280"/> 
   <img src="/img3.png" width="100" />
 </p>
 
