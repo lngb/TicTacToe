@@ -24,8 +24,8 @@ Enjoy the available source codes, customize it and publish your version starting
 
 ![System Requirements](https://img.shields.io/badge/System_Requirements-1575bf?style=for-the-badge)
 
-<p>Hardware: Not relevant (also a toaster will run it)
-Python Version: Python 3.6 or higher
+<p>Hardware: Not relevant (also a toaster will run it) <br>
+Python Version: Python 3.6 or higher <br>
 Dependencies:None (lightweight, no external libraries required)</p>
 
 ![Improvements](https://img.shields.io/badge/Improvements-1575bf?style=for-the-badge)
